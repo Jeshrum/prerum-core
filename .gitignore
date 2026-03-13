@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+
+# Logs
+*.log
